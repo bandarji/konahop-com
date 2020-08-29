@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 function main() {
   local src_dir="/Users/sellis/src/bandarji/konahop-com/"
