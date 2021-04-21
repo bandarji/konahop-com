@@ -1,0 +1,9 @@
+# Images
+images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# MacOS
+.DS_Store
